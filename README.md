@@ -29,7 +29,7 @@ Import data from kaggle
 3. Which items or outlets have the best and worst ratings?
 
 7. Screenshot / demos:
-Dashborad Screenshot :
+Dashborad Screenshot :https://github.com/tonpeP/BlinkIT-Data-Analysis/blob/main/BlinkIT.pbit
 
 
 
